@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 가상환경
+.venv/
+venv/
+
+# 시뮬레이션 실행 결과물 (스크립트 재실행으로 재현 가능하므로 커밋 대상에서 제외)
+*.csv
+*.png
+
+# OS / 에디터
+.DS_Store
